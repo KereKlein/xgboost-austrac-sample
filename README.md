@@ -1,5 +1,5 @@
 # xgboost-austrac-sample
-Example XGBoost analysis for EL2 AUSTRACT position
+Example XGBoost analysis for EL2 AUSTRAC position
 
 The purpose of the analysis was to demonstrate advanced machine learning capabilities aligned with the EL2 Director, Collaborative Analytics and Data Partnerships role at AUSTRAC. The Python script I developed implements a complete supervised learning workflow using XGBoost, focused on binary classification with the publicly available UCI Bank Marketing dataset.
 
