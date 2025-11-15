@@ -1,0 +1,15 @@
+
+name: xgb_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xgboost=1.6.2
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - joblib
+  - notebook
+  - pip
+  - pip:
+      - optuna
